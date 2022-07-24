@@ -2,7 +2,7 @@
 
 
 - General language programming language (Rust is a NEW systems programming language)
-	* It seems that Rust really focuses on preserving memory
+	* It seems that Rust really focuses on preserving memory (It looks to pick up where C++ left off and didnt do)
 	* It aims to be secure code -- To help 
 	* It’s very difficult to write multithreaded code, which is the only way to exploit the abilities of modern machines.
 	* Rust is a safe, concurrent language with the performance of C and C++
